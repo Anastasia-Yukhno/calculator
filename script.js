@@ -179,8 +179,6 @@ function inputDot() {
     isSignEntered = false;
 }
 
-
-
 function resultCalculation() {
 
     if (isNewInput
